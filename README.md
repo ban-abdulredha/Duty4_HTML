@@ -1,8 +1,4 @@
-Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.
-
-This is homework for the website course , in html department
+# duties-Duty5-HTML
 
 
-for more information 
-visit this website -> https://www.lipsum.com/
- 
+Task5 is simple single webpage about how to add and embed the video element in web page with certain properties
